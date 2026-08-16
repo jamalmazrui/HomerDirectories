@@ -1,0 +1,8 @@
+title: Homer Directories
+description: Free Reference Guides for Blind and Low Vision Readers
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
